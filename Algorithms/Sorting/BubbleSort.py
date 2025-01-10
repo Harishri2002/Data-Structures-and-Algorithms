@@ -26,5 +26,16 @@ def optimizedBubbleSort(arr):
 
 print(optimizedBubbleSort([4,3,5,6,7,1,2,10]))
 
+"""
+    Implements an optimized version of Bubble Sort to sort a list in ascending order.
+    The algorithm stops early if the array is already sorted.
+    
+    Args:
+        arr (list): The list of numbers to be sorted.
+
+    Returns:
+        list: A new list sorted in ascending order.
+"""
+
 # Worst and Average Case Time Complexity: O(n*n). 
 # Best Case Time Complexity: O(n).
