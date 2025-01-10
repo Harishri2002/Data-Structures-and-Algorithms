@@ -39,7 +39,7 @@ This repository is a comprehensive collection of essential data structures and a
 ### 🚀 **How to Use This Repository**
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/datastructures-and-algorithms.git
+   git clone https://github.com/Harishri2002/Data-Structures-and-Algorithms.git
    cd datastructures-and-algorithms
    ```
 2. Navigate through folders to explore different data structures and algorithms.
